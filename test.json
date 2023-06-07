@@ -1,0 +1,78 @@
+[
+    {
+        "__class__": "Lista",
+        "__atributos__": {
+            "__class__": "Usado",
+            "__atributos__": {
+                "marca": "Toyota",
+                "modelo": "Corolla",
+                "cantidadpuertas": 4,
+                "color": "Blanco",
+                "preciobase": 22000,
+                "patente": "DEF456",
+                "anio": 2013,
+                "kilometraje": 80000
+            }
+        }
+    },
+    {
+        "__class__": "Lista",
+        "__atributos__": {
+            "__class__": "Nuevo",
+            "__atributos__": {
+                "marca": "Volkswagen",
+                "modelo": "Gol",
+                "cantidadpuertas": 5,
+                "color": "Negro",
+                "preciobase": 20000,
+                "version": "base"
+            }
+        }
+    },
+    {
+        "__class__": "Lista",
+        "__atributos__": {
+            "__class__": "Usado",
+            "__atributos__": {
+                "marca": "Chevrolet",
+                "modelo": "Cruze",
+                "cantidadpuertas": 5,
+                "color": "Gris",
+                "preciobase": 18000,
+                "patente": "XYZ789",
+                "anio": 2012,
+                "kilometraje": 120000
+            }
+        }
+    },
+    {
+        "__class__": "Lista",
+        "__atributos__": {
+            "__class__": "Usado",
+            "__atributos__": {
+                "marca": "Fiat",
+                "modelo": "Palio",
+                "cantidadpuertas": 3,
+                "color": "Azul",
+                "preciobase": 15000,
+                "patente": "ABC123",
+                "anio": 2015,
+                "kilometraje": 90000
+            }
+        }
+    },
+    {
+        "__class__": "Lista",
+        "__atributos__": {
+            "__class__": "Nuevo",
+            "__atributos__": {
+                "marca": "Ford",
+                "modelo": "Focus",
+                "cantidadpuertas": 4,
+                "color": "Rojo",
+                "preciobase": 25000,
+                "version": "full"
+            }
+        }
+    }
+]
